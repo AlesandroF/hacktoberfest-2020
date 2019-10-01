@@ -75,7 +75,9 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   - Node.js
   - Firebase
 - [![github-alt][github-img]](https://github.com/ajanieniolasolomon)
-
+### Alesandro Fidelis
+- Gosto muito de novas tecnologias e sempre tento me manter atualizado.
+- [![github-alt][github-img]](https://github.com/AlesandroF)
 ### Abandon C++
 - Student, NCKU
 
@@ -4024,6 +4026,3 @@ Copyright (c) 2018 My First PR. See [LICENSE](LICENSE) for details.
 [tumblr-img]: https://i.imgur.com/jDRp47c.png
 [dribbble-img]: https://i.imgur.com/Vvy3Kru.png
 [github-img]: https://i.imgur.com/9I6NRUm.png
-### Alesandro Fidelis
-- Gosto muito de novas tecnologias e sempre tento me manter atualizado.
-- [![github-alt][github-img]](https://github.com/AlesandroF)
